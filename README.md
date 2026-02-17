@@ -67,27 +67,6 @@ Add screenshots inside the `assets/` folder and reference them here:
 
 `backend/` exposes search APIs.
 
-### Setup
-
-Python 3.10+
-
-```bash
-pip install fastapi uvicorn pandas faiss-cpu sentence-transformers
-```
-
-### Run backend
-
-```bash
-cd backend
-uvicorn main:app --reload
-```
-
-Backend runs at:
-
-```
-http://127.0.0.1:8000
-```
-
 ### API endpoints
 
 - `/data` → fetch dataset  
@@ -160,5 +139,3 @@ Lower distance indicates higher similarity when using L2 distance.
 - HTML/CSS  
 - JavaScript  
 
-GitHub:  
-https://github.com/RajanBuchha
