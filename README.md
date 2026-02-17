@@ -20,8 +20,6 @@ The system retrieves occupations based on semantic similarity instead of simple 
 
 # Demo
 
-Add screenshots inside the `assets/` folder and reference them here:
-
 ![Query1](assets/Screenshot110.png)  
 ![Query2](assets/Screenshot111.png)  
 ![Query3](assets/Screenshot112.png)
